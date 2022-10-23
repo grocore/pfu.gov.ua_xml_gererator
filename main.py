@@ -62,4 +62,17 @@ def generateXML(val_employer_edrpou='', val_employer_name='', val_individual_rno
     ET.indent(tree, space="\t", level=0)
     tree.write('test.xml', xml_declaration=False, encoding='utf-8')
 
-generateXML(val_record_doc_number='12312312')
+
+from tkinter import *
+
+def generate_clicked():
+    generateXML(val_record_doc_number='0000')
+
+window = Tk()
+window.title("Generate XML for pfu.gov.ua")
+window.geometry('800x600')
+lbl = Label(window, text="EDRPO")  
+lbl.grid(column=0, row=0)
+btn_generate = Button(window, text="Generate", command=generate_clicked)
+btn_generate.grid(column=1, row=10)
+window.mainloop()
