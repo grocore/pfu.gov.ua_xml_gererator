@@ -1,0 +1,32 @@
+<DOCUMENT>
+     <EMPLOYER>
+         <EDRPOU>11223344</EDRPOU>
+         <NAME>ТОВ "ПЕРШИЙ СТРАХУВАЛЬНИК"</NAME>
+     </EMPLOYER>
+     <INDIVIDUALS>
+       <INDIVIDUAL>
+         <RNOKPP>1122334455</RNOKPP>
+         <SERIA_NUMBER/>
+         <SURNAME>ХІЛЬЧУК</SURNAME>
+         <NAME>ОЛЬГА</NAME>
+         <PATRONYMIC>ІВАНІВНА</PATRONYMIC>
+       </INDIVIDUAL>
+     </INDIVIDUALS>
+	<RECORDS>
+		<RECORD>
+			<EMPLOYER_CODE>1</EMPLOYER_CODE>
+			<EDRPO_SIGN>11223344</EDRPO_SIGN>
+                        <NAME_SIGN>ТОВ "ПЕРШИЙ СТРАХУВАЛЬНИК"</NAME_SIGN>
+			<EDRPO_LR>11223344</EDRPO_LR>
+			<NAME_LR>ТОВ "ПЕРШИЙ СТРАХУВАЛЬНИК"</NAME_LR>
+			<ACTION_TYPE>1</ACTION_TYPE>
+			<ATTRIBUTE_TYPE>3</ATTRIBUTE_TYPE>
+			<ACTION_DT>2012-05-14</ACTION_DT>
+			<ACTION_TEXT>Звільнення з посади</ACTION_TEXT>
+			<LEAVE_REASON>п.1 ст.36 КЗпП України</LEAVE_REASON>
+                        <DOC_TYPE>Наказ</DOC_TYPE>
+			<DOC_DT>2022-01-18</DOC_DT>
+			<DOC_NUMBER>12/4</DOC_NUMBER>
+		</RECORD>
+     </RECORDS>
+</DOCUMENT>

@@ -1,0 +1,32 @@
+<DOCUMENT>
+	<EMPLOYER>
+		<EDRPOU />
+		<NAME />
+	</EMPLOYER>
+	<INDIVIDUALS>
+		<INDIVIDUAL>
+			<RNOKPP />
+			<SERIA_NUMBER />
+			<SURNAME />
+			<NAME />
+			<PATRONYMIC />
+		</INDIVIDUAL>
+	</INDIVIDUALS>
+	<RECORDS>
+		<RECORD>
+			<EMPLOYER_CODE />
+			<EDRPO_SIGN />
+			<NAME_SIGN />
+			<EDRPO_LR />
+			<NAME_LR />
+			<ACTION_TYPE />
+			<ATTRIBUTE_TYPE />
+			<ACTION_DT />
+			<ACTION_TEXT />
+			<LEAVE_REASON />
+			<DOC_TYPE />
+			<DOC_DT />
+			<DOC_NUMBER />
+		</RECORD>
+	</RECORDS>
+</DOCUMENT>
